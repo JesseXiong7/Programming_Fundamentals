@@ -1,4 +1,5 @@
 # Programming Fundamentals Final Project
+
 This repository contains my final project for the Programming Fundamentals course.  
 The project is a small interactive website built with **HTML**, **CSS**, and **JavaScript**.
 
